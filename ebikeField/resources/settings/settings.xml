@@ -1,0 +1,48 @@
+<settings>
+
+    <setting propertyKey="@Properties.LastMAC" title="@Strings.LastMACTitle">
+        <settingConfig type="alphaNumeric" maxLength="20" />
+    </setting>
+
+    <setting propertyKey="@Properties.LastLock" title="@Strings.LastLockTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.Label" title="@Strings.LabelTitle">
+        <settingConfig type="alphaNumeric" maxLength="40" />
+    </setting>
+
+    <setting propertyKey="@Properties.Item1" title="@Strings.Item1Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ShowOff</listEntry>
+            <listEntry value="1">@Strings.ShowBattery</listEntry>
+            <listEntry value="2">@Strings.ShowModeName</listEntry>
+            <listEntry value="3">@Strings.ShowModeLetter</listEntry>
+            <listEntry value="4">@Strings.ShowModeNumber</listEntry>
+            <listEntry value="5">@Strings.ShowGear</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Item2" title="@Strings.Item2Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ShowOff</listEntry>
+            <listEntry value="1">@Strings.ShowBattery</listEntry>
+            <listEntry value="2">@Strings.ShowModeName</listEntry>
+            <listEntry value="3">@Strings.ShowModeLetter</listEntry>
+            <listEntry value="4">@Strings.ShowModeNumber</listEntry>
+            <listEntry value="5">@Strings.ShowGear</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Item3" title="@Strings.Item3Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ShowOff</listEntry>
+            <listEntry value="1">@Strings.ShowBattery</listEntry>
+            <listEntry value="2">@Strings.ShowModeName</listEntry>
+            <listEntry value="3">@Strings.ShowModeLetter</listEntry>
+            <listEntry value="4">@Strings.ShowModeNumber</listEntry>
+            <listEntry value="5">@Strings.ShowGear</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>

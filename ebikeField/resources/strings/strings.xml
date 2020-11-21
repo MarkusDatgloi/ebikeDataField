@@ -1,0 +1,17 @@
+<strings>
+    <string id="AppName">STEPS EBIKE Data</string>
+
+    <string id="LastMACTitle">Last EBIKE MAC Address</string>
+    <string id="LastLockTitle">Lock to MAC Address</string>
+    <string id="LabelTitle">Label</string>
+    <string id="Item1Title">Item 1</string>
+    <string id="Item2Title">Item 2</string>
+    <string id="Item3Title">Item 3</string>
+
+    <string id="ShowOff">Off</string>
+    <string id="ShowBattery">Battery</string>
+    <string id="ShowModeName">Mode Name</string>
+    <string id="ShowModeLetter">Mode Letter</string>
+    <string id="ShowModeNumber">Mode Number</string>
+    <string id="ShowGear">Gear</string>
+</strings>
